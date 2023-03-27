@@ -1,3 +1,1 @@
-# PHPbasicCRUD
-https://www.youtube.com/watch?v=72U5Af8KUpA Step by Step
-![image](https://user-images.githubusercontent.com/63914950/215815317-4759a3d4-ba3f-4721-97e0-3c74b9201f69.png)
+![image](https://user-images.githubusercontent.com/63914950/227860891-81ac95a6-df62-441a-bb77-d2629b0b0de3.png)
